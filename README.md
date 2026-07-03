@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Youssef Hossam 👋</h1>
+<h1 align="center">Hi, I'm Youssef Hossam</h1>
 <h3 align="center">Software Engineer (Laravel & WordPress)</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1cCHJB5HyoJwSwVWO9zfFFYoJXF7ayMsWUjAI/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1cCHYoJwSwVWO9zfFFYoJXF7ayMsWUjAI/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume_/_CV-FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
   <a href="mailto:youssefhossam2902@gmail.com">
